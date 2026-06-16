@@ -24,54 +24,39 @@ I build scalable applications, solve complex problems, and enjoy creating innova
 
 <!-- Frontend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=8" />
 </p>
 
 <!-- Backend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,nodejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate&perline=8" />
 </p>
 
 <!-- Tools & Others -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" />
 </p>
 
 **Languages:** Python, JavaScript, SQL, HTML, CSS  
-**Frameworks & Libraries:** Django, Flask, React, Node.js  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Docker, VS Code  
+**Frameworks & Libraries:** Django, Flask, React
+**Databases:** MySQL
+**Tools:** Git, GitHub, VS Code  
 **Soft Skills:** Problem Solving, Communication, Team Collaboration, Adaptability  
 
 ---
 
 ## 📚 Projects
-
-### Project 1: [Your Project Name]
-**Role:** Developer  
-**Tech Stack:** [Technologies Used]  
-
-- Brief description of what the project does
-- Key features implemented
-- Technologies and tools utilized
-
 ---
 
-### Project 2: [Your Project Name]
-**Role:** Developer  
-**Tech Stack:** [Technologies Used]  
+### Employee CRUD Application using Java Full Stack
+**Role:** Java Developer  
+**Tech Stack:** Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript 
 
-- Brief description of what the project does
-- Key features implemented
-- Technologies and tools utilized
+- Developed a full-stack web application to manage employee records with CRUD functionality.
+- Designed RESTful APIs using Spring Boot for create, read, update, and delete operations.
+- Implemented Hibernate ORM for efficient database interaction with MySQL.
+- Built a responsive frontend using HTML, CSS, and JavaScript for improved user experience
 
----
-
-## 🏅 Certifications & Learning
-
-- [Certification 1]
-- [Certification 2]
-- [Certification 3]
 
 ---
 
@@ -101,15 +86,6 @@ I build scalable applications, solve complex problems, and enjoy creating innova
 
 </p>
 
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/murali-vengana">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-  </a>
-</p>
 
 ---
 
